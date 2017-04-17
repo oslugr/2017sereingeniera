@@ -13,7 +13,7 @@ Día para profundizar y repasar los conceptos de programación aprendidos el dí
 
 ## Recursos
 
-[Krita](https://krita.org/en/)
-[Gimp](https://www.gimp.org/)
-[make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
-[scratch help](https://scratch.mit.edu/help/)
+- [Krita](https://krita.org/en/)
+- [Gimp](https://www.gimp.org/)
+- [make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
+- [scratch help](https://scratch.mit.edu/help/)
