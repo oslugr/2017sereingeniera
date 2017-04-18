@@ -7,7 +7,9 @@ Día para hablar sobre juegos, lo que representan, qué es lo que los hace diver
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
 | 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? | 
-
+| 09:30 - 11:00 | Mecánicas en video y otro tipo de juegos y animaciones | 
+| 11:30 - 13:00 | Introducción a Scratch/AppInventor |
+| 13:00 - 14:00 | Trabajando con el mundo físico: S4A/Arduino |
 
 ## Recursos
 
