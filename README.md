@@ -17,4 +17,4 @@ el [Campus de Chicas 2017](http://sereingeniera.ugr.es)
 | 7   | HTML y presentaciones: uso de GitHub para publicación de páginas web. Diseño 3D y su uso en mandos de videojuegos u otros |
 | 8   | Trabajo en grupo, avance de hitos en el videojuego |
 | 9   | Finalización del trabajo, preparación de la presentación |
-| 10  | Últimos retoques, puesta en común de cambios de actitud con respecto a la Informática, presentación y cierre | 
+| [10](recursos/dia-10.md)  | Últimos retoques, puesta en común de cambios de actitud con respecto a la Informática, presentación y cierre | 
