@@ -9,7 +9,7 @@ Día para hablar sobre juegos, lo que representan, qué es lo que los hace diver
 | 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? | 
 | 09:30 - 10:30 | Mecánicas en video y otro tipo de juegos y animaciones |
 | 10:30 - 11:00 | Descanso de media hora  | 
-| 11:00 - 12:30 | Introducción a Scratch/AppInventor |
+| 11:00 - 12:30 | [Introducción a Scratch/AppInventor](../fichas/dia-3/appinventor.md) |
 | 12:30 - 14:00 | Trabajando con el mundo físico: S4A/Arduino |
 
 ## Recursos
