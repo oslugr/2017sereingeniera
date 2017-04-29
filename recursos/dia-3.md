@@ -10,7 +10,7 @@ Día para hablar sobre juegos, lo que representan, qué es lo que los hace diver
 | 09:30 - 10:30 | Mecánicas en video y otro tipo de juegos y animaciones |
 | 10:30 - 11:00 | Descanso de media hora  | 
 | 11:00 - 12:30 | [Introducción a Scratch/AppInventor](../fichas/dia-3/appinventor.md) |
-| 12:30 - 14:00 | Trabajando con el mundo físico: S4A/Arduino |
+| 12:30 - 14:00 | [Trabajando con el mundo físico: S4A/Arduino](../fichas/dia-3/arduino.md) |
 
 ## Recursos
 - [AppInventor](http://www.appinventor.org)
@@ -18,4 +18,5 @@ Día para hablar sobre juegos, lo que representan, qué es lo que los hace diver
 - [S4A](http://s4a.cat)
 - [Visualino](http://www.visualino.net)
 - [Arduino](https://www.arduino.cc)
+- [Fritzing](http://fritzing.org)
 
