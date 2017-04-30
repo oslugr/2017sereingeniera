@@ -13,7 +13,7 @@ el [Campus de Chicas 2017](http://sereingeniera.ugr.es)
 | [3](recursos/dia-3.md)   | Narrativa de juegos o animaciones con Scratch. AppInventor. S4A/Visualino. |
 | 4   | Design thinking para diseño de proyectos. Brainstorming común y por grupos. Contextos informáticos: web, chat, aplicaciones de escritorio, sistemas operativos, aplicaciones "empotradas" |
 | 5   | Herramientas de trabajo en grupo: git, GitHub, Telegram+Github. Objetivos y planificación (Trello, programación ágil, reparto de tareas) |
-| 6   | Comienzo del trabajo en grupo. A demanda, C para Arduino/Python/Pygames por grupos. Bots de Telegram. Introducción a las comunidades tecnológicas |
+| 6   | Comienzo del trabajo en grupo. A demanda, C para Arduino/JavaScript/WoofJS por grupos. Bots de Telegram. Introducción a las comunidades tecnológicas |
 | 7   | HTML y presentaciones: uso de GitHub para publicación de páginas web. Diseño 3D y su uso en mandos de videojuegos u otros |
 | 8   | Trabajo en grupo, avance de hitos en el videojuego |
 | 9   | Finalización del trabajo, preparación de la presentación |
