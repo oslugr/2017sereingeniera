@@ -4,7 +4,7 @@ Esta lista recopila las herramientas usadas en el campus tecnológico para crear
 
 * Post-it, lápices
 * Telegram instalado en diferentes clientes (web, móvil)
-* Algń programa libre de dibujo: Krita, Gimp, InkScape, Pinta, make 8 bit art
+* Algún programa libre de dibujo: Krita, Gimp, InkScape, Pinta, make 8 bit art
 * Scratch
 * AppInventor
 * S4A/Visualino
