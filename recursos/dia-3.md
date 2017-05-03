@@ -1,6 +1,7 @@
 # Tercer día
 
-Día para hablar sobre juegos, lo que representan, qué es lo que los hace divertidos o no. 
+Día para hablar sobre juegos, lo que representan, qué es lo que los
+hace divertidos o no. Continúan las prácticas de las profesoras. 
 
 ## Horario
 
@@ -13,6 +14,7 @@ Día para hablar sobre juegos, lo que representan, qué es lo que los hace diver
 | 12:30 - 14:00 | [Trabajando con el mundo físico: S4A/Arduino](../fichas/dia-3/arduino.md) |
 
 ## Recursos
+
 - [AppInventor](http://www.appinventor.org)
 - [AppInventor Tutorial](http://appinventor.mit.edu/explore/ai2/beginner-videos.html) - Primeros pasos con AppInventor
 - [S4A](http://s4a.cat)

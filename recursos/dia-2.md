@@ -1,12 +1,17 @@
 # Segundo día
 
-Día para profundizar y repasar los conceptos de programación aprendidos el día anterior. También se hará un taller sobre herramientas de dibujo y sobre scratch.
+Día para profundizar y repasar los conceptos de programación
+aprendidos el día anterior. También se hará un taller sobre
+herramientas de dibujo y sobre Scratch. Este día se recibirán a las
+profesoras en prácticas del campus "Informática para la vida" de
+desarrollo profesional para profesores presentes y futuros de
+enseñanzas medias y primarias. 
 
 ## Horario
 
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
-| 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? | 
+| 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? Presentación de las profesoras de prácticas| 
 | 09:30 - 10:30 | Repasamos los bailes del día anterior y los refactorizamos con funciones. Depuramos los posibles fallos de ejecución. |
 | 10:30 - 11:00 | Descanso de media hora  |
 | 11:00 - 12:30 | Taller sobre herramientas de dibujo libres |
