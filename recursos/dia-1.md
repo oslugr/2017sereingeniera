@@ -9,7 +9,7 @@ Los horarios serán siempre aproximados, y dependerán de como se responda y del
 | Hora | Actividad |
 | ------------ | ----------|
 | 9:00 - 10:00 | Reservada a presentación/autoridades |
-| 10:00 - 11:30 | Presentación / Orientación profesional / razones para estudiar y no estudiar informática |
+| 10:00 - 11:30 | [Presentación / Orientación profesional / razones para estudiar y no estudiar informática](../fichas/dia-1/presentacion.md) |
 | 12:00 - 12:30 | [Comenzando a usar Telegram](../fichas/dia-1/telegram.md) |
 | 12:30 - 14:00 | [Informática usando bailes/Katas](../fichas/dia-1/bailando.md) |
 
