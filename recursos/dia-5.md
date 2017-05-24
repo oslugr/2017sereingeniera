@@ -5,7 +5,7 @@
 
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
-| 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? |
+| 09:00 - 09:30 | [¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más?](../fichas/dia-2/repaso.md) |
 | 09:30 - 10:30 | Introducción a git. GitHub y sus posibilidades. |
 | 10:30 - 11:00 | Descanso. |
 | 11:00 - 11:30 | Creación de los equipos. |
