@@ -11,8 +11,8 @@ enseñanzas medias y primarias.
 
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
-| 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? Presentación de las profesoras de prácticas| 
-| 09:30 - 10:30 | Repasamos los bailes del día anterior y los refactorizamos con funciones. Depuramos los posibles fallos de ejecución. |
+| 09:00 - 09:30 | [¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más?](../fichas/dia-2/repaso.md) Presentación de las profesoras de prácticas| 
+| 09:30 - 10:30 | [Repasamos los bailes del día anterior y los refactorizamos con funciones. Depuramos los posibles fallos de ejecución.](../fichas/dia-2/bailando.md) |
 | 10:30 - 11:00 | Descanso de media hora  |
 | 11:00 - 12:30 | Taller sobre herramientas de dibujo libres |
 | 12:30 - 14:00 | Taller de scratch |
