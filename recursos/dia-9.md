@@ -6,7 +6,7 @@ Día para finalizar el trabajo y empezar la presentación del mismo.
 
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
-| 09:00 - 09:30 | ¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más? | 
+| 09:00 - 09:30 | [¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más?](../fichas/dia-2/repaso.md) | 
 | 09:30 - 10:30 | Trabajo en equipo: continuación del proyecto. |
 | 10:30 - 11:00 | Descanso. |
 | 11:00 - 12:30 | Trabajo en equipo: finalización del proyecto. |
