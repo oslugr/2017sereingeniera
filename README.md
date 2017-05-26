@@ -1,7 +1,11 @@
 # Campus tecnológico para chicas
 
 Repo central para
-el [Campus de Chicas 2017](http://sereingeniera.ugr.es)
+el
+[Campus de Chicas 2017](http://sereingeniera.ugr.es/campus-2017). Si
+estás interesada en más información o en preinscribirte, dirígete a
+esa página. 
+
 
 
 # Organización del curso
@@ -18,3 +22,14 @@ el [Campus de Chicas 2017](http://sereingeniera.ugr.es)
 | [8](recursos/dia-8.md)   | Trabajo en grupo, avance de hitos en el videojuego |
 | [9](recursos/dia-9.md)   | Finalización del trabajo, preparación de la presentación |
 | [10](recursos/dia-10.md)  | Últimos retoques, puesta en común de cambios de actitud con respecto a la Informática, presentación y cierre | 
+
+# Quienes
+
+[Marta](https://github.com/mgmacias95),
+[Irene](https://github.com/ireneherlo),
+[Celia](https://github.com/AIKUME)
+y [Cristina](https://github.com/CristinaHG) serán las
+monitoras. Organiza
+la [OSL](http://osl.ugr.es), [Manu](http://github.com/makova) se
+encarga de los sistemas y las redes sociales,
+y [JJ](http://jj.github.io) coordina. 
