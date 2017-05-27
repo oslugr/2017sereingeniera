@@ -90,3 +90,6 @@ ENV/
 
 # backups
 *~
+
+# lista ids twitter
+list.txt
