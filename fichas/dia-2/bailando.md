@@ -12,9 +12,8 @@
 
 ## Material y recursos
 
-Los alumnos necesitarán de un ordenador con el programa libre de dibujo InkScape instalado, y Scratch. 
-Si InkScape es muy complejo, probar Pinta como alternativa [Pinta project](https://pinta-project.com/pintaproject/pinta/).
+Los alumnos necesitarán de un ordenador con el programa libre de dibujo como Gimp o InkScape instalado, y Scratch. 
+Inicialmente usar Gimp como herramienta de dibujo, guiándose por el taller de dibujo de Manu. Si alguien ya domina Gimp, puede iniciarse con la heramienta para dibujo vectorial Inskape, la cual es muy adecuada para crear logos e ilustraciones más complejas. Un buen tutorial de inicio para Inskape es [creando una taza de café con Inkscape](https://design.tutsplus.com/tutorials/creating-a-coffee-cup-with-inkscape--vector-30).
 
 ## Dinámica
-
-Sacada de [Sprite Animation](https://wiki.scratch.mit.edu/wiki/Animating_a_Sprite).
+Primero crear las rutinas de baile y luego animarlas con una dinámica similar a la que se ejemplifica en [Sprite Animation](https://wiki.scratch.mit.edu/wiki/Animating_a_Sprite).
