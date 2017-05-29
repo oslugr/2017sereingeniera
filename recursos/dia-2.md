@@ -23,3 +23,4 @@ enseñanzas medias y primarias.
 - [Gimp](https://www.gimp.org/)
 - [make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
 - [scratch help](https://scratch.mit.edu/help/)
+- [Inkscape](https://inkscape.org/en/)
