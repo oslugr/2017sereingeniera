@@ -3,12 +3,11 @@
 Dentro del
 [Campus de Chicas 2017](http://sereingeniera.ugr.es/campus-2017) organizaremos un *clinic* de una tarde para todas las interesadas que no han podido ser admitidas en el campus.
 
-
-
 # Organización del clinic
 
+[Comenzaremos por una presentación, donde las participantes hablarán de sus razones para estudiar, o no, informática](fichas/dia-1/presentacion.md). A continuación, se introducirán [conceptos de programación/interpretación de lenguajes usando baile/kata]((../fichas/dia-1/bailando.md). Tras una primera pasada, [aprenderemos algún concepto más de programación con baile: refactorización, depuración](fichas/dia-2/bailando.md). 
 
-Conocimiento mutuo. Razones por las que no se va a estudiar informática. Telegram. Conceptos de programación/interpretación usando baile/kata. Más conceptos de programación con baile: refactorización, depuración. Herramientas de dibujo libres. Conocimiento de Scratch |
+Finalmente, trabajaremos las rutinas de baile en el ordenador usando Scratch.
 
 # Quienes
 
