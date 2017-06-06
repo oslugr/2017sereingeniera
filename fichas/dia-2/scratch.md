@@ -1,6 +1,6 @@
 # Scratch
 
-## Crea, Imganina, Programa.
+## Crea, Imagina, Programa.
 
 > 1. Abrimos Scratch desde Ubuntu u on-line, importante crearse una cuenta.
 > 2. Cambiar idioma quién quiera, aunque se aconseja utilizarlo en [Inglés](http://scratched.gse.harvard.edu/).
