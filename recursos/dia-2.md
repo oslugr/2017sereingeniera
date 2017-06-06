@@ -15,7 +15,7 @@ enseñanzas medias y primarias.
 | 09:30 - 10:30 | [Repasamos los bailes del día anterior y los refactorizamos con funciones. Depuramos los posibles fallos de ejecución.](../fichas/dia-2/bailando.md) |
 | 10:30 - 11:00 | Descanso de media hora  |
 | 11:00 - 12:30 | Taller sobre herramientas de dibujo libres, [Gimp](../fichas/dia-2/gimp.md) |
-| 12:30 - 14:00 | Taller de Scratch | Aprender funcionamiento y crear movimiento [Scratch](../fichas/dia-2/scratch.md)
+| 12:30 - 14:00 | Taller de Scratch | Aprender funcionamient, crear movimiento y programas [Scratch](../fichas/dia-2/scratch.md)
 
 ## Recursos
 
