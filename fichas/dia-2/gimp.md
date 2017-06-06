@@ -7,7 +7,7 @@
 > 3. Guardar, exportar e importar imágenes y saber que son los formatos (jpg, png, gif, etc.)
 > 4. Reducir imágenes para la web.
 > 5. Eliminar o cambiar objetos de las imágenes.
-> 6. 
+> 6. Abrir alguna foto y realizar retoques y cambios, cómo lo quitar lo rojo de los ojos.
 
 ## Tutorial en español
 
