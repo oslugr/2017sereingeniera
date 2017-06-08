@@ -7,7 +7,7 @@ Dentro del
 
 [Comenzaremos por una presentación, donde las participantes hablarán de sus razones para estudiar, o no, informática](fichas/dia-1/presentacion.md). A continuación, se introducirán [conceptos de programación/interpretación de lenguajes usando baile/kata]((../fichas/dia-1/bailando.md). Tras una primera pasada, [aprenderemos algún concepto más de programación con baile: refactorización, depuración](fichas/dia-2/bailando.md). 
 
-Finalmente, trabajaremos las rutinas de baile en el ordenador usando Scratch.
+Finalmente, trabajaremos las rutinas de baile en el ordenador [usando Scratch](fichas/dia-2/scratch.md)..
 
 # Quienes
 
