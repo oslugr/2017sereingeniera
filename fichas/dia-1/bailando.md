@@ -11,7 +11,7 @@
 
 ## Material y recursos
 
-Post-it de colores, espacio abierto, lápices. Cámaras para el profesor
+Post-it de colores, espacio abierto, lápices y bolígrafos. Cámaras para el profesor
 y cuadernos de notas.
 
 ## Dinámica
