@@ -9,7 +9,20 @@
 
 ## Recursos
 
-Cámara de vídeo/foto, móvil y ordenador.
+- Cámara de vídeo/foto, móvil y ordenador.
+
+- Bibliotecas de música y sonidos libres:
+* [Jamendo Music](https://www.jamendo.com/?language=es)
+* [Biblioteca de audio YouTube](https://www.youtube.com/audiolibrary/music)
+* [Free Music Archive](http://freemusicarchive.org)
+* [Soundbible](http://soundbible.com)
+
+- [Manual Kdenlive](https://userbase.kde.org/Kdenlive/Manual/es)
+
+- [Licencias Creative Commons](http://es.creativecommons.org/blog/licencias/)
+
+- [Presentaciones de Google](https://www.google.com/slides/about/)
+
 
 ## Dinámica
 
