@@ -14,3 +14,4 @@ Comenzar con el desarrollo del trabajo en equipo. Se realizarán talleres por gr
 
 ## Recursos
 
+- [JavaScript](../fichas/dia-6/JavaScript.md)
