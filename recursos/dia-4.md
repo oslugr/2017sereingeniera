@@ -7,10 +7,12 @@
 | Hora          | Actividad                                                                |
 | ------------- | -------------------------------------------------------------------------|
 | 09:00 - 09:30 | [¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más?](../fichas/dia-2/repaso.md) | 
-| 09:30 - 11:30 | Taller de Design Thinking por [Maria del Mar Fuentes, UGR emprendedora](https://ugremprendedora.ugr.es/) |
+| 09:30 - 11:30 | Taller de [Design Thinking](http://designthinking.es/inicio/index.php) por [Maria del Mar Fuentes, UGR emprendedora](https://ugremprendedora.ugr.es/) |
 | 12:00 - 13:00 | [*Contextos* informáticos: qué se puede programar y cómo.](../fichas/dia-4/contextos.md) |
 | 13:00 - 14:00 | [Organización de grupos](../fichas/dia-4/grupos.md) Inicio de los proyectos: (video)juegos/animaciones/creación con el ordenador | 
 
 ## Recursos
 
-Estudios sobre [organización de grupos de trabajo](http://www.shepherd.edu/ctl/firstyearexperience/FYEX-101_guidelines-student_group-work.doc) y reglas para los mismos. 
+Estudios sobre [organización de grupos de trabajo](http://www.shepherd.edu/ctl/firstyearexperience/FYEX-101_guidelines-student_group-work.doc) y reglas para los mismos. Otro [trabajo sobre el tema](https://www.bie.org/object/document/turning_student_groups_into_effective_teams) 
+
+
