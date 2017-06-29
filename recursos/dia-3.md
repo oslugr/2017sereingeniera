@@ -10,7 +10,7 @@ hace divertidos o no. Continúan las prácticas de las profesoras.
 | 09:00 - 09:30 | [¿Qué hicimos ayer? ¿Qué te hubiera gustado hacer? ¿Se te ocurrió alguna pregunta? ¿Qué te gustó más?](../fichas/dia-2/repaso.md) | 
 | 09:30 - 10:30 | [Mecánicas en video y otro tipo de juegos y animaciones](../fichas/dia-3/mecanicas-de-juego.md) |
 | 10:30 - 11:00 | Descanso de media hora  | 
-| 11:00 - 12:30 | Introducción a WoofJS |(../fichas/dia-3/WoofJS.md)|
+| 11:00 - 12:30 | [Introducción a WoofJS](../fichas/dia-3/WoofJS.md) |
 | 12:30 - 14:00 | [Trabajando con el mundo físico: S4A/Arduino](../fichas/dia-3/arduino.md) |
 
 ## Recursos
