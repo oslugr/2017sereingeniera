@@ -6,7 +6,8 @@
 
 ## Material y recursos
 
-* En la propia  página de WoorJS se cuenta con tutoriales sobre los que se puede comenzar a trabajar: [WoofJS](http://woofjs.com/)
+* En la propia  página de WoorJS se cuenta con tutoriales sobre los que se puede comenzar a trabajar: [WoofJS](http://woofjs.com/).
+* La programacion paso a paso de un [juego](https://www.codemahal.com/video/creating-your-first-2d-game-in-woofjs/).
 
 ## Dinámica
 
