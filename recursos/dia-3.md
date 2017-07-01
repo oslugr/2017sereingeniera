@@ -15,8 +15,7 @@ hace divertidos o no. Continúan las prácticas de las profesoras.
 
 ## Recursos
 
-- [AppInventor](http://www.appinventor.org)
-- [AppInventor Tutorial](http://appinventor.mit.edu/explore/ai2/beginner-videos.html) - Primeros pasos con AppInventor
+- [WoofJS](http://woofjs.com)
 - [S4A](http://s4a.cat)
 - [Visualino](http://www.visualino.net)
 - [Arduino](https://www.arduino.cc)
