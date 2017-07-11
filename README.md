@@ -7,7 +7,6 @@ estás interesada en más información o en preinscribirte, dirígete a
 esa página. 
 
 
-
 # Organización del curso
 
 | Día | Objetivos |
@@ -22,6 +21,13 @@ esa página.
 | [8](recursos/dia-8.md)   | Trabajo en grupo, avance de hitos en el videojuego |
 | [9](recursos/dia-9.md)   | Finalización del trabajo, preparación de la presentación |
 | [10](recursos/dia-10.md)  | Últimos retoques, puesta en común de cambios de actitud con respecto a la Informática, presentación y cierre | 
+
+# Proyectos
+
+Estos son los proyectos en vía de desarrollo.
+
+* [Videogame-project](https://github.com/ElisaChami/Videogame-Project)
+* [Ponyland](https://github.com/ElisaChami/Videogame-Project)
 
 # Quienes
 
