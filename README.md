@@ -6,6 +6,7 @@ el
 estás interesada en más información o en preinscribirte, dirígete a
 esa página. 
 
+![Con la colaboración de la Fundación Española para la Ciencia y la Tecnología – Ministerio de Economía, Industria y Competitividad](img/logo_MEIC_FECYT_Web.jpg)
 
 # Organización del curso
 
@@ -21,6 +22,12 @@ esa página.
 | [8](recursos/dia-8.md)   | Trabajo en grupo, avance de hitos en el videojuego |
 | [9](recursos/dia-9.md)   | Finalización del trabajo, preparación de la presentación |
 | [10](recursos/dia-10.md)  | Últimos retoques, puesta en común de cambios de actitud con respecto a la Informática, presentación y cierre | 
+
+# Presentaciones
+
+Presentaciones
+[de los diferentes objetivos de aprendizaje a lo largo de los días del campus](https://oslugr.github.io/2017sereingeniera/dias/) 
+
 
 # Proyectos
 
